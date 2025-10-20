@@ -7,7 +7,6 @@ This project analyzes Blinkit's grocery sales data using Python for EDA and Powe
 ## 🛠️ Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
-- Excel / MySQL (for data prep)
 
 ## 📈 Dashboard Features
 - KPI Cards: Total Sales, Average Rating, Unique Items Sold
@@ -15,13 +14,10 @@ This project analyzes Blinkit's grocery sales data using Python for EDA and Powe
 - Pie Chart: Sales by Outlet Type
 - Line Chart: Sales Trend by Establishment Year
 - Table: Item Performance Overview
-- Slicers: Interactive filters for outlet type, item type, and more
 
 ## 📁 Files Included
 - `BlinkIT_Sales_Dashboard.pbix` – Power BI dashboard
 - `BlinkIT_Cleaned_Data.xlsx` – Cleaned dataset
-- `EDA_Notebook.ipynb` – Python analysis (optional)
-- `dashboard_screenshot.png` – Visual preview (optional)
 
 ## 👨‍💻 Author
 Akshay
